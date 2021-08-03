@@ -1,4 +1,22 @@
 This is to test working of git branch.
+<<<<<<< HEAD
 TO CHECK MERGING CONFLICTS....
 We Donno Where we Are getting errors....
 what to edit....
+=======
+TO CHECK MERGING CONFLICTS...
+
+RIZWANA
+AMAR
+SRIHITHA
+
+<<<<<<< HEAD
+edit okay done save this
+=======
+--------
+>>>>>>> ff9f65aac47286f05b1613e087cd3cefc8f559a0
+
+hello good morning
+>>>>>>> 90fea410906779756d9aea457010fa1a823a9f6a
+
+Hellooo rizuuu....
