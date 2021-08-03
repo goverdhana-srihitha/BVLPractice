@@ -11,6 +11,11 @@ AMAR
 SRIHITHA
 
 <<<<<<< HEAD
+--------
+
+git merge-file <base>
+=======
+<<<<<<< HEAD
 edit okay done save this
 =======
 --------
@@ -18,5 +23,8 @@ edit okay done save this
 
 hello good morning
 >>>>>>> 90fea410906779756d9aea457010fa1a823a9f6a
+<<<<<<< HEAD
 
 Hellooo rizuuu....
+=======
+>>>>>>> cfdd7ac6f435c795948767aeca055e23219d0bd8
