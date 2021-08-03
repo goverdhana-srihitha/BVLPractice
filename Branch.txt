@@ -6,3 +6,5 @@ AMAR
 SRIHITHA
 
 --------
+
+git merge-file <base>
