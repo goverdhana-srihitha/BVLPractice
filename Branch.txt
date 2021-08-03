@@ -1,2 +1,6 @@
 This is to test working of git branch.
 TO CHECK MERGING CONFLICTS...
+
+RIZWANA
+AMAR
+SRIHITHA
